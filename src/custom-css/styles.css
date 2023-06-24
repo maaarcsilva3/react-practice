@@ -1,0 +1,14 @@
+.heading {
+    color: red;
+}
+
+.img{
+    width: 130px;
+    height: 100px;
+}
+
+.container{
+   text-align: center;
+    border: 1px solid;
+    width: auto;
+}
